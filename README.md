@@ -18,6 +18,8 @@ Here are some images of the
 
 
 
+
+Once you've inputted the correct email/password then this will be the next page
 ![image](https://github.com/Abdullahj07/Portfolio-Website/assets/120344531/8d04bdc7-f2c1-4ad9-a6b6-016b9fd2e29b)
 
 
