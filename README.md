@@ -4,9 +4,9 @@ This is my portfolio website I created
 Was done with html,css,php and javascript
 Its a traditonal portfolio website but also has a login form which when correctly logged in, takes you to a blog post form where you cna post blogs. Then there is a universal view blogs page that anyone can see without logging in.
 
-Since i used xammp fo rmy database its not possible for external testing therefore if you are trying to run the page the login functionality won't unfortunately work, however everything else should do inlcuding the view blogs page.
+Since i used xammp for rmy database its not possible for external testing therefore if you are trying to run the page the login functionality won't unfortunately work, however everything else should do inlcuding the view blogs page.
 
-Here are some images of the 
+Here are some images of the website
 
 ![image](https://github.com/Abdullahj07/Portfolio-Website/assets/120344531/c5d2ea1e-7c9c-4ea3-b121-3271b732f078)
 
